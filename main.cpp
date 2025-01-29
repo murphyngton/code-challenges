@@ -7,6 +7,7 @@
 #include <iostream>
 #include <algorithm>
 #include <functional>
+#include <cmath>
 
 /**
  * -- TASK 1 --
